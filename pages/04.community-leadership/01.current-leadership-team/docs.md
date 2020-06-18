@@ -7,8 +7,8 @@ The current leadership team and their terms are as follows:
 
 | Name      | Role     | Email address | Term commenced | Term ends |
 |-----------|--------------------|-----------------------|-----------------|---------------|
-| DB Hurley          |  Project Lead                  |  db.hurley@mautic.org                     |  N/A               | N/A              |
-| Ruth Cheesley | Community Manager | ruth.cheesley@mautic.org | 05/08/2019 | N/A      |
+| DB Hurley          |  Project Founder                  |  db.hurley@mautic.org                     |  N/A               | N/A              |
+| Ruth Cheesley | Community Manager & Project Lead | ruth.cheesley@mautic.org | 05/08/2019 | N/A      |
 | Ekkehard Gümbel           | Community Team Lead                   | ekke.guembel@mautic.org                      |                 |               |
 | Nico Grienauer          | Community Team Assistant Lead                   | nico.grienauer@mautic.org                      |                 |               |
 | Leon Oltmanns         | Education Team Lead                   | leon.oltmanns@mautic.org                      |                 |               |
